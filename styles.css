@@ -1,6 +1,13 @@
 *{
     margin: 5px;
 }
+.header{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
 .form-row{
     display: flex;
+    font-size: 300;
+    font-weight: 400;
 }
